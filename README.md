@@ -1,1 +1,3 @@
-# candy-game
+# candy-catcher-game
+Hey Community ! This project is about candy catcher game. In this Game We have one basket to catch the candy in it. Making this game challenging so for this Candy is randomly fall down from any place. We control our basket with A and D keyboard key and also I set score if we catch candy in basket so score is increase but if we didnot catch candy in basket so our lives are decreased. I also set lives limit we only have three lives if we lost this three lives so GAME OVER statement will show on your screen. For run this game you can run this code on turboc complier otherwise create exe file. This project is for my first ever hackthon which name is SNACKES AND HACKERS which is conducted by MLH.
+FOLLOW ME ON LINKEDIN :https://www.linkedin.com/in/smit-prajapati-036669201
